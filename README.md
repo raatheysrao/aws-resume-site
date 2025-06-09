@@ -27,5 +27,4 @@ This project is a **fully automated static resume website** hosted on **AWS S3**
 - Managing AWS IAM permissions and bucket policies
 - Handling real-world AWS + IaC challenges
 
-## 📁 Project Structure
 
