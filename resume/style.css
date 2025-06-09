@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #00adb5;
+  color: white;
+  padding: 14px 28px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background-color: #007d82;
+}
+
+.email {
+  color: #ccc;
+  font-size: 1em;
+  text-decoration: none;
+}
